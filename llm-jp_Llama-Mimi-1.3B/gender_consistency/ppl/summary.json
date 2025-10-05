@@ -1,5 +1,5 @@
 {
-  "speaker_consistency": {
+  "gender_consistency": {
     "correct_idxs": [
       0,
       2,
