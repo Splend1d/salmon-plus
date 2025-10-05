@@ -1,14 +1,6 @@
-# salmon-plus
+## Auto Summary for `llm-jp_Llama-Mimi-1.3B`
 
-
-Edit: https://www.kaggle.com/code/a24998667/llama-mimi-1b
-Refresh:
-
-## Experimental Results
-
-<!-- AUTO-GEN: EXPERIMENTAL RESULTS BEGIN -->
-### `llm-jp_Llama-Mimi-1.3B`
-
+<!-- AUTO-GEN: MODEL TABLES -->
 | exp | sentiment_consistency | speaker_consistency |
 | --- | --- | --- |
 | P2-ppl-spike-pinned-window100.0ms-is-max | 84.50% | 88.00% |
@@ -34,4 +26,4 @@ Refresh:
 | ppl-spike-window1000ms | 79.50% | 94.00% |
 | ppl-spike-window200.0ms | 87.50% | 93.50% |
 | ppl-spike-window500.0ms | 85.00% | 94.00% |
-<!-- AUTO-GEN: EXPERIMENTAL RESULTS END -->
+<!-- AUTO-GEN: MODEL TABLES -->
