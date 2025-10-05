@@ -1,0 +1,31 @@
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_domain_consistency`
+
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_domain_consistency`
+
+<!-- AUTO-GEN: SPLIT TABLE -->
+| exp | bg_domain_consistency |
+| --- | --- |
+| P2-ppl-spike-pinned-window100.0ms-is-max | 80.50% |
+| P2-ppl-spike-pinned-window1000ms-is-max | 80.50% |
+| P2-ppl-spike-pinned-window200.0ms-is-max | 83.50% |
+| P2-ppl-spike-pinned-window500.0ms-is-max | 79.50% |
+| ppl | 73.00% |
+| ppl-spike-pinned-topk1 | 74.00% |
+| ppl-spike-pinned-topk16 | 81.50% |
+| ppl-spike-pinned-topk2 | 77.50% |
+| ppl-spike-pinned-topk4 | 81.00% |
+| ppl-spike-pinned-topk8 | 81.50% |
+| ppl-spike-pinned-window100.0ms | 80.50% |
+| ppl-spike-pinned-window1000ms | 80.50% |
+| ppl-spike-pinned-window200.0ms | 83.50% |
+| ppl-spike-pinned-window500.0ms | 79.50% |
+| ppl-spike-topk1 | 62.50% |
+| ppl-spike-topk16 | 74.00% |
+| ppl-spike-topk2 | 64.50% |
+| ppl-spike-topk4 | 67.00% |
+| ppl-spike-topk8 | 73.00% |
+| ppl-spike-window100.0ms | 74.50% |
+| ppl-spike-window1000ms | 72.50% |
+| ppl-spike-window200.0ms | 73.50% |
+| ppl-spike-window500.0ms | 75.50% |
+<!-- AUTO-GEN: SPLIT TABLE -->

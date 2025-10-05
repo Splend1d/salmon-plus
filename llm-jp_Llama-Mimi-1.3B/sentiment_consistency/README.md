@@ -1,7 +1,11 @@
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_consistency`
+
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
-| exp | task |
+| exp | sentiment_consistency |
 | --- | --- |
 | P2-ppl-spike-pinned-window100.0ms-is-max | 84.50% |
 | P2-ppl-spike-pinned-window1000ms-is-max | 92.50% |

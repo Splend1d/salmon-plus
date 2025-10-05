@@ -1,0 +1,31 @@
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_alignment`
+
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_alignment`
+
+<!-- AUTO-GEN: SPLIT TABLE -->
+| exp | sentiment_alignment |
+| --- | --- |
+| P2-ppl-spike-pinned-window100.0ms-is-max | 0.00% |
+| P2-ppl-spike-pinned-window1000ms-is-max | 0.00% |
+| P2-ppl-spike-pinned-window200.0ms-is-max | 0.00% |
+| P2-ppl-spike-pinned-window500.0ms-is-max | 0.00% |
+| ppl | 48.50% |
+| ppl-spike-pinned-topk1 | 0.00% |
+| ppl-spike-pinned-topk16 | 0.00% |
+| ppl-spike-pinned-topk2 | 0.00% |
+| ppl-spike-pinned-topk4 | 0.00% |
+| ppl-spike-pinned-topk8 | 0.00% |
+| ppl-spike-pinned-window100.0ms | 0.00% |
+| ppl-spike-pinned-window1000ms | 0.00% |
+| ppl-spike-pinned-window200.0ms | 0.00% |
+| ppl-spike-pinned-window500.0ms | 0.00% |
+| ppl-spike-topk1 | 51.50% |
+| ppl-spike-topk16 | 49.00% |
+| ppl-spike-topk2 | 49.00% |
+| ppl-spike-topk4 | 50.50% |
+| ppl-spike-topk8 | 50.00% |
+| ppl-spike-window100.0ms | 51.00% |
+| ppl-spike-window1000ms | 54.00% |
+| ppl-spike-window200.0ms | 49.50% |
+| ppl-spike-window500.0ms | 54.00% |
+<!-- AUTO-GEN: SPLIT TABLE -->

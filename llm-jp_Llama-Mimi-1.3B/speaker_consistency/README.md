@@ -1,7 +1,11 @@
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
+
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
-| exp | task |
+| exp | speaker_consistency |
 | --- | --- |
 | P2-ppl-spike-pinned-window100.0ms-is-max | 88.00% |
 | P2-ppl-spike-pinned-window1000ms-is-max | 95.50% |
