@@ -97,14 +97,13 @@
     182,
     186,
     188,
-    190,
     192,
     193,
     194,
     197,
     198
   ],
-  "correct_rate": 51.5,
-  "negative_samples_avg_ppl": 1330.0980575967383,
-  "positive_samples_avg_ppl": 1256.4061301860218
+  "correct_rate": 51.0,
+  "negative_samples_avg_ppl": 1323.257037389716,
+  "positive_samples_avg_ppl": 1264.8758858292404
 }

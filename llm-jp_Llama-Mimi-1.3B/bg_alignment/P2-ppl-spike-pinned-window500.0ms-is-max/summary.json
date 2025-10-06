@@ -1,4 +1,10 @@
 {
-  "correct_idxs": [],
-  "correct_rate": 0.0
+  "correct_idxs": [
+    39,
+    87,
+    112,
+    136,
+    177
+  ],
+  "correct_rate": 2.5
 }

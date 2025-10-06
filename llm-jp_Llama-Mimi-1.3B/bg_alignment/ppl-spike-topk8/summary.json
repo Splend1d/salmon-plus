@@ -81,7 +81,6 @@
     159,
     161,
     163,
-    164,
     165,
     166,
     167,
@@ -104,7 +103,7 @@
     198,
     199
   ],
-  "correct_rate": 51.5,
-  "negative_samples_avg_ppl": 15385.062988485619,
-  "positive_samples_avg_ppl": 15467.020114468134
+  "correct_rate": 51.0,
+  "negative_samples_avg_ppl": 15470.339333031681,
+  "positive_samples_avg_ppl": 15552.735898813005
 }
