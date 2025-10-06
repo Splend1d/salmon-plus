@@ -6,13 +6,20 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | speaker_consistency |
 | --- | --- |
-| P2-ppl-spike-pinned-window100.0ms-is-max | 88.00% |
-| P2-ppl-spike-pinned-window1000ms-is-max | 95.50% |
-| P2-ppl-spike-pinned-window200.0ms-is-max | 95.00% |
-| P2-ppl-spike-pinned-window500.0ms-is-max | 96.00% |
+| P2-ppl-spike-pinned-topk1-is-max | 78.50% |
+| P2-ppl-spike-pinned-topk16-is-max | 92.00% |
+| P2-ppl-spike-pinned-topk2-is-max | 82.50% |
+| P2-ppl-spike-pinned-topk4-is-max | 87.50% |
+| P2-ppl-spike-pinned-topk8-is-max | 92.00% |
+| P2-ppl-spike-pinned-window100.0ms-is-max | 23.00% |
+| P2-ppl-spike-pinned-window1000ms-is-max | 64.00% |
+| P2-ppl-spike-pinned-window200.0ms-is-max | 38.00% |
+| P2-ppl-spike-pinned-window500.0ms-is-max | 55.00% |
 | ppl | 85.00% |
 | ppl-spike-pinned-topk1 | 88.00% |
 | ppl-spike-pinned-topk16 | 94.50% |
