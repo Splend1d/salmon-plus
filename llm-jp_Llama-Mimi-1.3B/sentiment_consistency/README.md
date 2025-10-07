@@ -8,6 +8,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | sentiment_consistency |
 | --- | --- |
@@ -27,9 +29,13 @@
 | ppl-spike-pinned-topk4 | 88.50% |
 | ppl-spike-pinned-topk8 | 92.00% |
 | ppl-spike-pinned-window100.0ms | 84.50% |
+| ppl-spike-pinned-window100.0ms-firstcodebook-only | 76.50% |
 | ppl-spike-pinned-window1000ms | 92.50% |
+| ppl-spike-pinned-window1000ms-firstcodebook-only | 85.50% |
 | ppl-spike-pinned-window200.0ms | 92.50% |
+| ppl-spike-pinned-window200.0ms-firstcodebook-only | 85.00% |
 | ppl-spike-pinned-window500.0ms | 95.50% |
+| ppl-spike-pinned-window500.0ms-firstcodebook-only | 89.00% |
 | ppl-spike-topk1 | 66.50% |
 | ppl-spike-topk16 | 75.50% |
 | ppl-spike-topk2 | 71.50% |

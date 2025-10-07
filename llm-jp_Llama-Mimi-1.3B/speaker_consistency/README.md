@@ -8,6 +8,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/speaker_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | speaker_consistency |
 | --- | --- |
@@ -27,9 +29,13 @@
 | ppl-spike-pinned-topk4 | 91.50% |
 | ppl-spike-pinned-topk8 | 94.50% |
 | ppl-spike-pinned-window100.0ms | 88.00% |
+| ppl-spike-pinned-window100.0ms-firstcodebook-only | 78.50% |
 | ppl-spike-pinned-window1000ms | 95.50% |
+| ppl-spike-pinned-window1000ms-firstcodebook-only | 90.00% |
 | ppl-spike-pinned-window200.0ms | 95.00% |
+| ppl-spike-pinned-window200.0ms-firstcodebook-only | 87.50% |
 | ppl-spike-pinned-window500.0ms | 96.00% |
+| ppl-spike-pinned-window500.0ms-firstcodebook-only | 91.50% |
 | ppl-spike-topk1 | 84.00% |
 | ppl-spike-topk16 | 94.50% |
 | ppl-spike-topk2 | 89.50% |
