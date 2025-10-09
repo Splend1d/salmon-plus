@@ -10,6 +10,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/gender_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/gender_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | gender_consistency |
 | --- | --- |
@@ -23,6 +25,15 @@
 | P2-ppl-spike-pinned-window200.0ms-is-max | 52.00% |
 | P2-ppl-spike-pinned-window500.0ms-is-max | 77.00% |
 | ppl | 83.50% |
+| ppl-diff-spike-pinned-topk1 | 94.00% |
+| ppl-diff-spike-pinned-topk16 | 99.00% |
+| ppl-diff-spike-pinned-topk2 | 95.00% |
+| ppl-diff-spike-pinned-topk4 | 96.50% |
+| ppl-diff-spike-pinned-topk8 | 98.00% |
+| ppl-diff-spike-pinned-window100.0ms | 88.00% |
+| ppl-diff-spike-pinned-window1000ms | 99.00% |
+| ppl-diff-spike-pinned-window200.0ms | 98.50% |
+| ppl-diff-spike-pinned-window500.0ms | 100.00% |
 | ppl-diff-spike-topk1 | 84.00% |
 | ppl-diff-spike-topk16 | 94.00% |
 | ppl-diff-spike-topk2 | 86.50% |

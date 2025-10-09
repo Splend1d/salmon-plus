@@ -10,6 +10,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_all_consistency`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_all_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | bg_all_consistency |
 | --- | --- |
@@ -23,6 +25,15 @@
 | P2-ppl-spike-pinned-window200.0ms-is-max | 20.50% |
 | P2-ppl-spike-pinned-window500.0ms-is-max | 21.50% |
 | ppl | 73.00% |
+| ppl-diff-spike-pinned-topk1 | 80.50% |
+| ppl-diff-spike-pinned-topk16 | 80.00% |
+| ppl-diff-spike-pinned-topk2 | 82.00% |
+| ppl-diff-spike-pinned-topk4 | 82.50% |
+| ppl-diff-spike-pinned-topk8 | 81.50% |
+| ppl-diff-spike-pinned-window100.0ms | 83.50% |
+| ppl-diff-spike-pinned-window1000ms | 83.00% |
+| ppl-diff-spike-pinned-window200.0ms | 86.50% |
+| ppl-diff-spike-pinned-window500.0ms | 83.50% |
 | ppl-diff-spike-topk1 | 68.50% |
 | ppl-diff-spike-topk16 | 75.00% |
 | ppl-diff-spike-topk2 | 70.50% |
