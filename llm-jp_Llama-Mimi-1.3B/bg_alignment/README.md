@@ -8,6 +8,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_alignment`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/bg_alignment`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | bg_alignment |
 | --- | --- |
@@ -21,6 +23,16 @@
 | P2-ppl-spike-pinned-window200.0ms-is-max | 0.00% |
 | P2-ppl-spike-pinned-window500.0ms-is-max | 2.50% |
 | ppl | 52.50% |
+| ppl-diff-spike-topk1 | 51.00% |
+| ppl-diff-spike-topk16 | 53.00% |
+| ppl-diff-spike-topk2 | 50.00% |
+| ppl-diff-spike-topk32 | 52.50% |
+| ppl-diff-spike-topk4 | 48.00% |
+| ppl-diff-spike-topk8 | 51.50% |
+| ppl-diff-spike-window100.0ms | 49.50% |
+| ppl-diff-spike-window1000ms | 52.00% |
+| ppl-diff-spike-window200.0ms | 50.00% |
+| ppl-diff-spike-window500.0ms | 51.00% |
 | ppl-spike-pinned-topk1 | 54.00% |
 | ppl-spike-pinned-topk16 | 52.50% |
 | ppl-spike-pinned-topk2 | 51.00% |

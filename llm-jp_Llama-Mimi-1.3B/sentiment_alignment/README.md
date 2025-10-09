@@ -8,6 +8,8 @@
 
 ### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_alignment`
 
+### Auto Summary for `llm-jp_Llama-Mimi-1.3B/sentiment_alignment`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | sentiment_alignment |
 | --- | --- |
@@ -21,6 +23,16 @@
 | P2-ppl-spike-pinned-window200.0ms-is-max | 8.50% |
 | P2-ppl-spike-pinned-window500.0ms-is-max | 10.50% |
 | ppl | 48.50% |
+| ppl-diff-spike-topk1 | 49.00% |
+| ppl-diff-spike-topk16 | 50.00% |
+| ppl-diff-spike-topk2 | 49.50% |
+| ppl-diff-spike-topk32 | 48.50% |
+| ppl-diff-spike-topk4 | 47.00% |
+| ppl-diff-spike-topk8 | 49.00% |
+| ppl-diff-spike-window100.0ms | 47.00% |
+| ppl-diff-spike-window1000ms | 51.50% |
+| ppl-diff-spike-window200.0ms | 46.00% |
+| ppl-diff-spike-window500.0ms | 49.00% |
 | ppl-spike-pinned-topk1 | 50.00% |
 | ppl-spike-pinned-topk16 | 50.50% |
 | ppl-spike-pinned-topk2 | 51.00% |
