@@ -169,6 +169,6 @@
     199
   ],
   "correct_rate": 83.5,
-  "negative_samples_avg_ppl": 388.72031771040355,
-  "positive_samples_avg_ppl": 48.190280736961974
+  "negative_samples_avg_ppl": 8.06636341946551,
+  "positive_samples_avg_ppl": 0.12397160256712826
 }
