@@ -1,5 +1,7 @@
 ### Auto Summary for `GSLM/bg_domain_consistency`
 
+### Auto Summary for `GSLM/bg_domain_consistency`
+
 <!-- AUTO-GEN: SPLIT TABLE -->
 | exp | bg_domain_consistency |
 | --- | --- |
