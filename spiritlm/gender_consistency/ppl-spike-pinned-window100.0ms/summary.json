@@ -41,7 +41,6 @@
     74,
     75,
     78,
-    79,
     83,
     84,
     85,
@@ -114,7 +113,7 @@
     197,
     199
   ],
-  "correct_rate": 56.5,
-  "negative_samples_avg_ppl": 6.01481416886702,
-  "positive_samples_avg_ppl": 5.07785484063851
+  "correct_rate": 56.0,
+  "negative_samples_avg_ppl": 5.301048141602228,
+  "positive_samples_avg_ppl": 4.60200003539654
 }

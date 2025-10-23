@@ -1,5 +1,6 @@
 {
   "correct_idxs": [
+    0,
     1,
     2,
     3,
@@ -55,6 +56,7 @@
     98,
     99,
     100,
+    101,
     102,
     106,
     110,
@@ -105,7 +107,7 @@
     197,
     199
   ],
-  "correct_rate": 52.25,
-  "negative_samples_avg_ppl": 6.722855891922417,
-  "positive_samples_avg_ppl": 6.356592292466403
+  "correct_rate": 53.25,
+  "negative_samples_avg_ppl": 5.387077635764372,
+  "positive_samples_avg_ppl": 5.096242204802009
 }
