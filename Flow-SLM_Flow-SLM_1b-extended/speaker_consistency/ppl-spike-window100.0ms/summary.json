@@ -1,0 +1,6 @@
+{
+  "correct_idxs": [],
+  "correct_rate": 0.0,
+  "negative_samples_avg_ppl": 1.0,
+  "positive_samples_avg_ppl": 1.0
+}
